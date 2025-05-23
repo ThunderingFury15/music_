@@ -1,0 +1,10 @@
+streamlit
+pygame
+mutagen
+librosa
+scikit-learn
+numpy
+pandas
+matplotlib
+joblib
+soundfile
